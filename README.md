@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Data Analytics and Machine learning Projects.  <p align="right"><img src="Images/Nerd-amico.png" width="300"></p>
+- 🔭 I’m currently working on Data Analytics and Machine learning Projects. <img align="right" src="Images/Nerd-amico.png" width="300">
 - 🌱 I’m currently learning Deep learning and DSA.
 - 👯 I’m looking to collaborate on Data Analysis, Machine learning & Data Science Projects.
 - 🤔 I’m looking for help with NLP.
