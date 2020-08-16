@@ -13,4 +13,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me :
  [![linkedin badge](https://img.shields.io/badge/Prashant-Vikram-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashant-vikram-2b1409163)
  [![twitter badge](https://img.shields.io/badge/@Prashantvik-30302f?style=flat&logo=twitter)](https://twitter.com/Prashantvik)
-- ⚡ Fun fact: I started learning programming as fun!
+- ⚡ Fun fact: I started learning programming for fun!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect more! Ping me to collaborate for projets!</b> :)</em>
