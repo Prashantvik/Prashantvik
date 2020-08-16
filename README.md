@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
  [![twitter badge](https://img.shields.io/badge/@Prashantvik-30302f?style=flat&logo=twitter)](https://twitter.com/Prashantvik)
 - ⚡ Fun fact: I started learning programming for fun!
 - Want to have a look at my portfolio? I've made as a begineer in Web development. 
- Click <a href = "https://www.github.io/Prashantvik"> Portfolio<a>
+ Click <a href = "https://Prashantvik.github.io"> Portfolio<a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect! Ping me to collaborate for projects!</b> :)</em>
 
