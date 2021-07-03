@@ -18,5 +18,7 @@ Here are some ideas to get you started:-->
  Click <a href = "https://Prashantvik.github.io"> Portfolio<a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect! Ping me to collaborate for projects!</b> :)</em>
+ 
+ <img src="Prashantvik/Images/Nerd-amico.png" width="60">
 
 
